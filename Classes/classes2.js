@@ -10,3 +10,5 @@ class LinkedList {
 
 let myLinkedList = new LinkedList(23)
 myLinkedList.push(7)
+
+
